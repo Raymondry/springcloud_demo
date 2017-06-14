@@ -9,6 +9,7 @@
         <module name="config-client" />
         <module name="config-server" />
         <module name="eureka-client" />
+        <module name="eureka-config-server" />
         <module name="eureka-server" />
         <module name="service-feign" />
         <module name="service-ribbon" />
@@ -20,6 +21,7 @@
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
       <module name="eureka-client" target="1.8" />
+      <module name="eureka-config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="eureka_client" target="1.8" />
       <module name="eureka_server" target="1.8" />
