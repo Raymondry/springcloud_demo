@@ -7,8 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-config-server/eureka-config-server.iml" filepath="$PROJECT_DIR$/eureka-config-server/eureka-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-colony/eureka-server-colony.iml" filepath="$PROJECT_DIR$/eureka-server-colony/eureka-server-colony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/server-zipkin/server-zipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zipkin-hi/service-zipkin-hi.iml" filepath="$PROJECT_DIR$/service-zipkin-hi/service-zipkin-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zipkin-miya/service-zipkin-miya.iml" filepath="$PROJECT_DIR$/service-zipkin-miya/service-zipkin-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_mydemo.iml" filepath="$PROJECT_DIR$/springcloud_mydemo.iml" />
     </modules>

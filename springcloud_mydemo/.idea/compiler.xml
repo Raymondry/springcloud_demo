@@ -11,8 +11,12 @@
         <module name="eureka-client" />
         <module name="eureka-config-server" />
         <module name="eureka-server" />
+        <module name="eureka-server-colony" />
+        <module name="server-zipkin" />
         <module name="service-feign" />
         <module name="service-ribbon" />
+        <module name="service-zipkin-hi" />
+        <module name="service-zipkin-miya" />
         <module name="service-zuul" />
         <module name="springcloud_mydemo" />
       </profile>
@@ -23,10 +27,15 @@
       <module name="eureka-client" target="1.8" />
       <module name="eureka-config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-colony" target="1.8" />
       <module name="eureka_client" target="1.8" />
       <module name="eureka_server" target="1.8" />
+      <module name="server-zipkin" target="1.8" />
       <module name="service-feign" target="1.8" />
+      <module name="service-hi" target="1.8" />
       <module name="service-ribbon" target="1.8" />
+      <module name="service-zipkin-hi" target="1.8" />
+      <module name="service-zipkin-miya" target="1.8" />
       <module name="service-zuul" target="1.8" />
       <module name="service_ribbon" target="1.8" />
       <module name="springcloud_mydemo" target="1.5" />
